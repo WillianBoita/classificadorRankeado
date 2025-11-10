@@ -15,7 +15,7 @@ if (vitorias <= 10) {
 } else if (vitorias <= 90) {
     nivel = "Diamante"
 } else if (vitorias <= 100) {
-    nivel = "Landário"
+    nivel = "Lendário"
 } else {
     nivel = "Imortal"
 }
